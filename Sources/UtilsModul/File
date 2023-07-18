@@ -1,0 +1,11 @@
+
+just added to explain how to edit existing Swift PM
+
+1. checkout from Git
+2. drag to project dir (SPM dependancy dissapears)
+3. made changes
+
+4. remove reference
+5. go to checked out project , commit and push
+
+6. update dependancy
