@@ -3,9 +3,15 @@ just added to explain how to edit existing Swift PM
 
 1. checkout from Git
 2. drag to project dir (SPM dependancy dissapears)
-3. made changes
-
-4. remove reference
+3. made changes, check when the spm is as a library inside the host proj.
+4. remove it by reference, spm returns to be visible
 5. go to checked out project , commit and push
+6. update spm in the hosting proj
 
-6. update dependancy
+
+
+
+1. checkout from Git
+2. made changes
+3. commit and push
+4. update spm in the hosting proj
